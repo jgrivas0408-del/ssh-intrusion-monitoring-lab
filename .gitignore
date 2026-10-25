@@ -1,0 +1,9 @@
+reports/
+*.log
+.env
+*.key
+*.pem
+*.vmdk
+*.iso
+.DS_Store
+Thumbs.db
